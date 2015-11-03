@@ -1,0 +1,15 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "AnalyticGeometry\tPDE class", "contents": "AnalyticGeometry"},
+		{"trigger": "BoundaryCondition\tPDE class", "contents": "BoundaryCondition"},
+		{"trigger": "DiscreteGeometry\tPDE class", "contents": "DiscreteGeometry"},
+		{"trigger": "FEMesh\tPDE class", "contents": "FEMesh"},
+		{"trigger": "PDEModel\tPDE class", "contents": "PDEModel"},
+		{"trigger": "PDEResults\tPDE class", "contents": "PDEResults"},
+		{"trigger": "pdeBoundaryConditions\tPDE class", "contents": "pdeBoundaryConditions"},
+		{"trigger": "pdeInterpolant\tPDE class", "contents": "pdeInterpolant"},
+
+	]
+}

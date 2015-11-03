@@ -1,0 +1,20 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "createOptimProblem\tGADS method", "contents": "createOptimProblem(${1:args})"} ,
+		{"trigger": "ga\tGADS method", "contents": "ga(${1:args})"} ,
+		{"trigger": "gamultiobj\tGADS method", "contents": "gamultiobj(${1:args})"} ,
+		{"trigger": "gaoptimget\tGADS method", "contents": "gaoptimget(${1:args})"} ,
+		{"trigger": "gaoptimset\tGADS method", "contents": "gaoptimset(${1:args})"} ,
+		{"trigger": "optimoptions\tGADS method", "contents": "optimoptions(${1:args})"} ,
+		{"trigger": "particleswarm\tGADS method", "contents": "particleswarm(${1:args})"} ,
+		{"trigger": "patternsearch\tGADS method", "contents": "patternsearch(${1:args})"} ,
+		{"trigger": "psoptimget\tGADS method", "contents": "psoptimget(${1:args})"} ,
+		{"trigger": "psoptimset\tGADS method", "contents": "psoptimset(${1:args})"} ,
+		{"trigger": "saoptimget\tGADS method", "contents": "saoptimget(${1:args})"} ,
+		{"trigger": "saoptimset\tGADS method", "contents": "saoptimset(${1:args})"} ,
+		{"trigger": "simulannealbnd\tGADS method", "contents": "simulannealbnd(${1:args})"} ,
+
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "rtwho\tRTWin method", "contents": "rtwho(${1:args})"} ,
+		{"trigger": "sldrtconfigset\tRTWin method", "contents": "sldrtconfigset(${1:args})"} ,
+		{"trigger": "sldrtkernel\tRTWin method", "contents": "sldrtkernel(${1:args})"} ,
+
+	]
+}

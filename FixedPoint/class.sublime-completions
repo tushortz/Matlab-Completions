@@ -1,0 +1,32 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "DataTypeWorkflow.Converter\tFixedPoint class", "contents": "DataTypeWorkflow.Converter"},
+		{"trigger": "DataTypeWorkflow.DiffRunResult\tFixedPoint class", "contents": "DataTypeWorkflow.DiffRunResult"},
+		{"trigger": "DataTypeWorkflow.DiffSignalResult\tFixedPoint class", "contents": "DataTypeWorkflow.DiffSignalResult"},
+		{"trigger": "DataTypeWorkflow.ProposalSettings\tFixedPoint class", "contents": "DataTypeWorkflow.ProposalSettings"},
+		{"trigger": "DataTypeWorkflow.Result\tFixedPoint class", "contents": "DataTypeWorkflow.Result"},
+		{"trigger": "assignmentquantizer\tFixedPoint class", "contents": "assignmentquantizer"},
+		{"trigger": "coder.ArrayType\tFixedPoint class", "contents": "coder.ArrayType"},
+		{"trigger": "coder.CellType\tFixedPoint class", "contents": "coder.CellType"},
+		{"trigger": "coder.Constant\tFixedPoint class", "contents": "coder.Constant"},
+		{"trigger": "coder.EnumType\tFixedPoint class", "contents": "coder.EnumType"},
+		{"trigger": "coder.FiType\tFixedPoint class", "contents": "coder.FiType"},
+		{"trigger": "coder.FixptConfig\tFixedPoint class", "contents": "coder.FixptConfig"},
+		{"trigger": "coder.MexConfig\tFixedPoint class", "contents": "coder.MexConfig"},
+		{"trigger": "coder.PrimitiveType\tFixedPoint class", "contents": "coder.PrimitiveType"},
+		{"trigger": "coder.SingleConfig\tFixedPoint class", "contents": "coder.SingleConfig"},
+		{"trigger": "coder.StructType\tFixedPoint class", "contents": "coder.StructType"},
+		{"trigger": "coder.Type\tFixedPoint class", "contents": "coder.Type"},
+		{"trigger": "embedded.fi\tFixedPoint class", "contents": "embedded.fi"},
+		{"trigger": "embedded.fimath\tFixedPoint class", "contents": "embedded.fimath"},
+		{"trigger": "embedded.numerictype\tFixedPoint class", "contents": "embedded.numerictype"},
+		{"trigger": "fixed.aggregateType\tFixedPoint class", "contents": "fixed.aggregateType"},
+		{"trigger": "quantizer\tFixedPoint class", "contents": "quantizer"},
+		{"trigger": "savefipref\tFixedPoint class", "contents": "savefipref"},
+		{"trigger": "tostring\tFixedPoint class", "contents": "tostring"},
+		{"trigger": "unitquantizer\tFixedPoint class", "contents": "unitquantizer"},
+
+	]
+}

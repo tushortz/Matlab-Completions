@@ -1,0 +1,31 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "pm_adddimension\tSimscape method", "contents": "pm_adddimension(${1:args})"} ,
+		{"trigger": "pm_addunit\tSimscape method", "contents": "pm_addunit(${1:args})"} ,
+		{"trigger": "pm_getdimensions\tSimscape method", "contents": "pm_getdimensions(${1:args})"} ,
+		{"trigger": "pm_getunits\tSimscape method", "contents": "pm_getunits(${1:args})"} ,
+		{"trigger": "simscape.dependency.file\tSimscape method", "contents": "simscape.dependency.file(${1:args})"} ,
+		{"trigger": "simscape.dependency.lib\tSimscape method", "contents": "simscape.dependency.lib(${1:args})"} ,
+		{"trigger": "simscape.dependency.model\tSimscape method", "contents": "simscape.dependency.model(${1:args})"} ,
+		{"trigger": "simscape.logging.Node\tSimscape method", "contents": "simscape.logging.Node(${1:args})"} ,
+		{"trigger": "simscape.logging.Series\tSimscape method", "contents": "simscape.logging.Series(${1:args})"} ,
+		{"trigger": "simscape.logging.plot\tSimscape method", "contents": "simscape.logging.plot(${1:args})"} ,
+		{"trigger": "simscape.logging.plotxy\tSimscape method", "contents": "simscape.logging.plotxy(${1:args})"} ,
+		{"trigger": "simscape.logging.sli.findNode\tSimscape method", "contents": "simscape.logging.sli.findNode(${1:args})"} ,
+		{"trigger": "simscape.logging.sli.findPath\tSimscape method", "contents": "simscape.logging.sli.findPath(${1:args})"} ,
+		{"trigger": "sl_postprocess\tSimscape method", "contents": "sl_postprocess(${1:args})"} ,
+		{"trigger": "ssc_build\tSimscape method", "contents": "ssc_build(${1:args})"} ,
+		{"trigger": "ssc_clean\tSimscape method", "contents": "ssc_clean(${1:args})"} ,
+		{"trigger": "ssc_mirror\tSimscape method", "contents": "ssc_mirror(${1:args})"} ,
+		{"trigger": "ssc_new\tSimscape method", "contents": "ssc_new(${1:args})"} ,
+		{"trigger": "ssc_protect\tSimscape method", "contents": "ssc_protect(${1:args})"} ,
+		{"trigger": "ssc_reserved\tSimscape method", "contents": "ssc_reserved(${1:args})"} ,
+		{"trigger": "ssc_update\tSimscape method", "contents": "ssc_update(${1:args})"} ,
+		{"trigger": "sscexplore\tSimscape method", "contents": "sscexplore(${1:args})"} ,
+		{"trigger": "sscprintzcs\tSimscape method", "contents": "sscprintzcs(${1:args})"} ,
+		{"trigger": "twoPhaseFluidTable\tSimscape method", "contents": "twoPhaseFluidTable(${1:args})"} ,
+
+	]
+}

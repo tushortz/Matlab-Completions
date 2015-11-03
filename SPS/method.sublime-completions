@@ -1,0 +1,28 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "pe_calculateThdPercent\tSPS method", "contents": "pe_calculateThdPercent(${1:args})"} ,
+		{"trigger": "pe_getHarmonics\tSPS method", "contents": "pe_getHarmonics(${1:args})"} ,
+		{"trigger": "pe_plotHarmonics\tSPS method", "contents": "pe_plotHarmonics(${1:args})"} ,
+		{"trigger": "power_AsynchronousMachineParams\tSPS method", "contents": "power_AsynchronousMachineParams(${1:args})"} ,
+		{"trigger": "power_PMSynchronousMachineParams\tSPS method", "contents": "power_PMSynchronousMachineParams(${1:args})"} ,
+		{"trigger": "power_analyze\tSPS method", "contents": "power_analyze(${1:args})"} ,
+		{"trigger": "power_cableparam\tSPS method", "contents": "power_cableparam(${1:args})"} ,
+		{"trigger": "power_customize\tSPS method", "contents": "power_customize(${1:args})"} ,
+		{"trigger": "power_fftscope\tSPS method", "contents": "power_fftscope(${1:args})"} ,
+		{"trigger": "power_flicker\tSPS method", "contents": "power_flicker(${1:args})"} ,
+		{"trigger": "power_hysteresis\tSPS method", "contents": "power_hysteresis(${1:args})"} ,
+		{"trigger": "power_init\tSPS method", "contents": "power_init(${1:args})"} ,
+		{"trigger": "power_initstates\tSPS method", "contents": "power_initstates(${1:args})"} ,
+		{"trigger": "power_lineparam\tSPS method", "contents": "power_lineparam(${1:args})"} ,
+		{"trigger": "power_loadflow\tSPS method", "contents": "power_loadflow(${1:args})"} ,
+		{"trigger": "power_ltiview\tSPS method", "contents": "power_ltiview(${1:args})"} ,
+		{"trigger": "power_new\tSPS method", "contents": "power_new(${1:args})"} ,
+		{"trigger": "power_report\tSPS method", "contents": "power_report(${1:args})"} ,
+		{"trigger": "power_statespace\tSPS method", "contents": "power_statespace(${1:args})"} ,
+		{"trigger": "power_steadystate\tSPS method", "contents": "power_steadystate(${1:args})"} ,
+		{"trigger": "power_zmeter\tSPS method", "contents": "power_zmeter(${1:args})"} ,
+
+	]
+}

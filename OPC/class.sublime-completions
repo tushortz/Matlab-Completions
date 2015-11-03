@@ -1,0 +1,11 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "opc.ua.AggregateFnId\tOPC class", "contents": "opc.ua.AggregateFnId"},
+		{"trigger": "opc.ua.Client\tOPC class", "contents": "opc.ua.Client"},
+		{"trigger": "opc.ua.Node\tOPC class", "contents": "opc.ua.Node"},
+		{"trigger": "opc.ua.ServerInfo\tOPC class", "contents": "opc.ua.ServerInfo"},
+
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "simrfSupportPackages\tSimRF method", "contents": "simrfSupportPackages(${1:args})"} ,
+
+	]
+}

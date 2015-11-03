@@ -1,0 +1,18 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "sfclipboard\tStateFlow method", "contents": "sfclipboard(${1:args})"} ,
+		{"trigger": "sfclose\tStateFlow method", "contents": "sfclose(${1:args})"} ,
+		{"trigger": "sfgco\tStateFlow method", "contents": "sfgco(${1:args})"} ,
+		{"trigger": "sfhelp\tStateFlow method", "contents": "sfhelp(${1:args})"} ,
+		{"trigger": "sflib\tStateFlow method", "contents": "sflib(${1:args})"} ,
+		{"trigger": "sfnew\tStateFlow method", "contents": "sfnew(${1:args})"} ,
+		{"trigger": "sfopen\tStateFlow method", "contents": "sfopen(${1:args})"} ,
+		{"trigger": "sfprint\tStateFlow method", "contents": "sfprint(${1:args})"} ,
+		{"trigger": "sfroot\tStateFlow method", "contents": "sfroot(${1:args})"} ,
+		{"trigger": "sfsave\tStateFlow method", "contents": "sfsave(${1:args})"} ,
+		{"trigger": "stateflow\tStateFlow method", "contents": "stateflow(${1:args})"} ,
+
+	]
+}

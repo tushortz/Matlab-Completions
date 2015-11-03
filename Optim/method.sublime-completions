@@ -1,0 +1,24 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "color\tOptim method", "contents": "color(${1:args})"} ,
+		{"trigger": "fgoalattain\tOptim method", "contents": "fgoalattain(${1:args})"} ,
+		{"trigger": "fmincon\tOptim method", "contents": "fmincon(${1:args})"} ,
+		{"trigger": "fminimax\tOptim method", "contents": "fminimax(${1:args})"} ,
+		{"trigger": "fminunc\tOptim method", "contents": "fminunc(${1:args})"} ,
+		{"trigger": "fseminf\tOptim method", "contents": "fseminf(${1:args})"} ,
+		{"trigger": "fsolve\tOptim method", "contents": "fsolve(${1:args})"} ,
+		{"trigger": "fzmult\tOptim method", "contents": "fzmult(${1:args})"} ,
+		{"trigger": "gangstr\tOptim method", "contents": "gangstr(${1:args})"} ,
+		{"trigger": "intlinprog\tOptim method", "contents": "intlinprog(${1:args})"} ,
+		{"trigger": "linprog\tOptim method", "contents": "linprog(${1:args})"} ,
+		{"trigger": "lsqcurvefit\tOptim method", "contents": "lsqcurvefit(${1:args})"} ,
+		{"trigger": "lsqlin\tOptim method", "contents": "lsqlin(${1:args})"} ,
+		{"trigger": "lsqnonlin\tOptim method", "contents": "lsqnonlin(${1:args})"} ,
+		{"trigger": "mpsread\tOptim method", "contents": "mpsread(${1:args})"} ,
+		{"trigger": "optimtool\tOptim method", "contents": "optimtool(${1:args})"} ,
+		{"trigger": "quadprog\tOptim method", "contents": "quadprog(${1:args})"} ,
+
+	]
+}

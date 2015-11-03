@@ -1,0 +1,27 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "MLAppendMatrix\tExLink method", "contents": "MLAppendMatrix(${1:args})"} ,
+		{"trigger": "MLAutoStart\tExLink method", "contents": "MLAutoStart(${1:args})"} ,
+		{"trigger": "MLClose\tExLink method", "contents": "MLClose(${1:args})"} ,
+		{"trigger": "MLDeleteMatrix\tExLink method", "contents": "MLDeleteMatrix(${1:args})"} ,
+		{"trigger": "MLEvalString\tExLink method", "contents": "MLEvalString(${1:args})"} ,
+		{"trigger": "MLGetFigure\tExLink method", "contents": "MLGetFigure(${1:args})"} ,
+		{"trigger": "MLGetMatrix\tExLink method", "contents": "MLGetMatrix(${1:args})"} ,
+		{"trigger": "MLGetVar\tExLink method", "contents": "MLGetVar(${1:args})"} ,
+		{"trigger": "MLMissingDataAsNaN\tExLink method", "contents": "MLMissingDataAsNaN(${1:args})"} ,
+		{"trigger": "MLOpen\tExLink method", "contents": "MLOpen(${1:args})"} ,
+		{"trigger": "MLPutMatrix\tExLink method", "contents": "MLPutMatrix(${1:args})"} ,
+		{"trigger": "MLPutRanges\tExLink method", "contents": "MLPutRanges(${1:args})"} ,
+		{"trigger": "MLPutVar\tExLink method", "contents": "MLPutVar(${1:args})"} ,
+		{"trigger": "MLShowMatlabErrors\tExLink method", "contents": "MLShowMatlabErrors(${1:args})"} ,
+		{"trigger": "MLStartDir\tExLink method", "contents": "MLStartDir(${1:args})"} ,
+		{"trigger": "MLUseCellArray\tExLink method", "contents": "MLUseCellArray(${1:args})"} ,
+		{"trigger": "MLUseFullDesktop\tExLink method", "contents": "MLUseFullDesktop(${1:args})"} ,
+		{"trigger": "matlabfcn\tExLink method", "contents": "matlabfcn(${1:args})"} ,
+		{"trigger": "matlabinit\tExLink method", "contents": "matlabinit(${1:args})"} ,
+		{"trigger": "matlabsub\tExLink method", "contents": "matlabsub(${1:args})"} ,
+
+	]
+}

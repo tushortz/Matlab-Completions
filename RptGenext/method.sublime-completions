@@ -1,0 +1,8 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "slwebview\tRptGenext method", "contents": "slwebview(${1:args})"} ,
+
+	]
+}

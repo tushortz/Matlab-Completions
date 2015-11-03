@@ -1,0 +1,34 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "biquad\tantenna class", "contents": "biquad"},
+		{"trigger": "bowtieRounded\tantenna class", "contents": "bowtieRounded"},
+		{"trigger": "bowtieTriangular\tantenna class", "contents": "bowtieTriangular"},
+		{"trigger": "cavity\tantenna class", "contents": "cavity"},
+		{"trigger": "customAntennaMesh\tantenna class", "contents": "customAntennaMesh"},
+		{"trigger": "dipole\tantenna class", "contents": "dipole"},
+		{"trigger": "dipoleFolded\tantenna class", "contents": "dipoleFolded"},
+		{"trigger": "dipoleMeander\tantenna class", "contents": "dipoleMeander"},
+		{"trigger": "dipoleVee\tantenna class", "contents": "dipoleVee"},
+		{"trigger": "helix\tantenna class", "contents": "helix"},
+		{"trigger": "infiniteArray\tantenna class", "contents": "infiniteArray"},
+		{"trigger": "invertedF\tantenna class", "contents": "invertedF"},
+		{"trigger": "invertedL\tantenna class", "contents": "invertedL"},
+		{"trigger": "linearArray\tantenna class", "contents": "linearArray"},
+		{"trigger": "loopCircular\tantenna class", "contents": "loopCircular"},
+		{"trigger": "loopRectangular\tantenna class", "contents": "loopRectangular"},
+		{"trigger": "monopole\tantenna class", "contents": "monopole"},
+		{"trigger": "monopoleTopHat\tantenna class", "contents": "monopoleTopHat"},
+		{"trigger": "patchMicrostrip\tantenna class", "contents": "patchMicrostrip"},
+		{"trigger": "pifa\tantenna class", "contents": "pifa"},
+		{"trigger": "rectangularArray\tantenna class", "contents": "rectangularArray"},
+		{"trigger": "reflector\tantenna class", "contents": "reflector"},
+		{"trigger": "slot\tantenna class", "contents": "slot"},
+		{"trigger": "spiralArchimedean\tantenna class", "contents": "spiralArchimedean"},
+		{"trigger": "spiralEquiangular\tantenna class", "contents": "spiralEquiangular"},
+		{"trigger": "vivaldi\tantenna class", "contents": "vivaldi"},
+		{"trigger": "yagiUda\tantenna class", "contents": "yagiUda"},
+
+	]
+}

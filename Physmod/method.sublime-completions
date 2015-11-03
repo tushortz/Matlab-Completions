@@ -1,0 +1,18 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "sdl_update\tPhysmod method", "contents": "sdl_update(${1:args})"} ,
+		{"trigger": "elec_getPowerLossSummary\tPhysmod method", "contents": "elec_getPowerLossSummary(${1:args})"} ,
+		{"trigger": "smimport\tPhysmod method", "contents": "smimport(${1:args})"} ,
+		{"trigger": "smnew\tPhysmod method", "contents": "smnew(${1:args})"} ,
+		{"trigger": "sm_lib\tPhysmod method", "contents": "sm_lib(${1:args})"} ,
+		{"trigger": "mech_import\tPhysmod method", "contents": "mech_import(${1:args})"} ,
+		{"trigger": "smlink_linkinv\tPhysmod method", "contents": "smlink_linkinv(${1:args})"} ,
+		{"trigger": "smlink_unlinkinv\tPhysmod method", "contents": "smlink_unlinkinv(${1:args})"} ,
+		{"trigger": "smlink_linksw\tPhysmod method", "contents": "smlink_linksw(${1:args})"} ,
+		{"trigger": "smlink_unlinksw\tPhysmod method", "contents": "smlink_unlinksw(${1:args})"} ,
+
+
+	]
+}

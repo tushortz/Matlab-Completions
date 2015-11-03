@@ -1,0 +1,12 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "Using\tRobotics class", "contents": "Using"},
+		{"trigger": "robotics.BinaryOccupancyGrid\tRobotics class", "contents": "robotics.BinaryOccupancyGrid"},
+		{"trigger": "robotics.PRM\tRobotics class", "contents": "robotics.PRM"},
+		{"trigger": "robotics.PurePursuit\tRobotics class", "contents": "robotics.PurePursuit"},
+		{"trigger": "robotics.VectorFieldHistogram\tRobotics class", "contents": "robotics.VectorFieldHistogram"},
+
+	]
+}

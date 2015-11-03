@@ -1,0 +1,13 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "DataMatrix\tBioinfo class", "contents": "DataMatrix"},
+		{"trigger": "HeatMap\tBioinfo class", "contents": "HeatMap"},
+		{"trigger": "NegativeBinomialTest\tBioinfo class", "contents": "NegativeBinomialTest"},
+		{"trigger": "biograph\tBioinfo class", "contents": "biograph"},
+		{"trigger": "clustergram\tBioinfo class", "contents": "clustergram"},
+		{"trigger": "phytree\tBioinfo class", "contents": "phytree"},
+
+	]
+}

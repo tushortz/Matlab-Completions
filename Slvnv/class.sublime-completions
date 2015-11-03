@@ -1,0 +1,28 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "Advisor.Application\tSlvnv class", "contents": "Advisor.Application"},
+		{"trigger": "Advisor.Manager\tSlvnv class", "contents": "Advisor.Manager"},
+		{"trigger": "Advisor.authoring.CustomCheck\tSlvnv class", "contents": "Advisor.authoring.CustomCheck"},
+		{"trigger": "Advisor.authoring.DataFile\tSlvnv class", "contents": "Advisor.authoring.DataFile"},
+		{"trigger": "ModelAdvisor.Action\tSlvnv class", "contents": "ModelAdvisor.Action"},
+		{"trigger": "ModelAdvisor.Check\tSlvnv class", "contents": "ModelAdvisor.Check"},
+		{"trigger": "ModelAdvisor.FactoryGroup\tSlvnv class", "contents": "ModelAdvisor.FactoryGroup"},
+		{"trigger": "ModelAdvisor.FormatTemplate\tSlvnv class", "contents": "ModelAdvisor.FormatTemplate"},
+		{"trigger": "ModelAdvisor.Group\tSlvnv class", "contents": "ModelAdvisor.Group"},
+		{"trigger": "ModelAdvisor.Image\tSlvnv class", "contents": "ModelAdvisor.Image"},
+		{"trigger": "ModelAdvisor.InputParameter\tSlvnv class", "contents": "ModelAdvisor.InputParameter"},
+		{"trigger": "ModelAdvisor.LineBreak\tSlvnv class", "contents": "ModelAdvisor.LineBreak"},
+		{"trigger": "ModelAdvisor.List\tSlvnv class", "contents": "ModelAdvisor.List"},
+		{"trigger": "ModelAdvisor.ListViewParameter\tSlvnv class", "contents": "ModelAdvisor.ListViewParameter"},
+		{"trigger": "ModelAdvisor.Paragraph\tSlvnv class", "contents": "ModelAdvisor.Paragraph"},
+		{"trigger": "ModelAdvisor.Procedure\tSlvnv class", "contents": "ModelAdvisor.Procedure"},
+		{"trigger": "ModelAdvisor.Root\tSlvnv class", "contents": "ModelAdvisor.Root"},
+		{"trigger": "ModelAdvisor.Table\tSlvnv class", "contents": "ModelAdvisor.Table"},
+		{"trigger": "ModelAdvisor.Task\tSlvnv class", "contents": "ModelAdvisor.Task"},
+		{"trigger": "ModelAdvisor.Text\tSlvnv class", "contents": "ModelAdvisor.Text"},
+		{"trigger": "cv.cvdatagroup\tSlvnv class", "contents": "cv.cvdatagroup"},
+
+	]
+}

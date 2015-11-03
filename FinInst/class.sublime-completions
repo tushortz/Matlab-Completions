@@ -1,0 +1,15 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "HullWhite1F\tFinInst class", "contents": "HullWhite1F"},
+		{"trigger": "IRBootstrapOptions\tFinInst class", "contents": "IRBootstrapOptions"},
+		{"trigger": "IRDataCurve\tFinInst class", "contents": "IRDataCurve"},
+		{"trigger": "IRFitOptions\tFinInst class", "contents": "IRFitOptions"},
+		{"trigger": "IRFunctionCurve\tFinInst class", "contents": "IRFunctionCurve"},
+		{"trigger": "LiborMarketModel\tFinInst class", "contents": "LiborMarketModel"},
+		{"trigger": "LinearGaussian2F\tFinInst class", "contents": "LinearGaussian2F"},
+		{"trigger": "numerix\tFinInst class", "contents": "numerix"},
+
+	]
+}

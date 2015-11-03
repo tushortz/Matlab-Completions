@@ -1,0 +1,12 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "wlanGeneratorConfig\tWLAN prop", "contents": "wlanGeneratorConfig"},
+		{"trigger": "wlanHTConfig\tWLAN prop", "contents": "wlanHTConfig"},
+		{"trigger": "wlanNonHTConfig\tWLAN prop", "contents": "wlanNonHTConfig"},
+		{"trigger": "wlanRecoveryConfig\tWLAN prop", "contents": "wlanRecoveryConfig"},
+		{"trigger": "wlanVHTConfig\tWLAN prop", "contents": "wlanVHTConfig"},
+
+	]
+}

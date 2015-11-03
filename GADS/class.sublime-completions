@@ -1,0 +1,12 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "CustomStartPointSet\tGADS class", "contents": "CustomStartPointSet"},
+		{"trigger": "GlobalOptimSolution\tGADS class", "contents": "GlobalOptimSolution"},
+		{"trigger": "GlobalSearch\tGADS class", "contents": "GlobalSearch"},
+		{"trigger": "MultiStart\tGADS class", "contents": "MultiStart"},
+		{"trigger": "RandomStartPointSet\tGADS class", "contents": "RandomStartPointSet"},
+
+	]
+}

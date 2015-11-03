@@ -1,0 +1,24 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "EHfields\tAntenna method", "contents": "EHfields(${1:args})"},
+		{"trigger": "axialRatio\tAntenna method", "contents": "axialRatio(${1:args})"},
+		{"trigger": "beamwidth\tAntenna method", "contents": "beamwidth(${1:args})"},
+		{"trigger": "charge\tAntenna method", "contents": "charge(${1:args})"},
+		{"trigger": "correlation\tAntenna method", "contents": "correlation(${1:args})"},
+		{"trigger": "current\tAntenna method", "contents": "current(${1:args})"},
+		{"trigger": "cylinder2strip\tAntenna method", "contents": "cylinder2strip(${1:args})"},
+		{"trigger": "helixpitch2spacing\tAntenna method", "contents": "helixpitch2spacing(${1:args})"},
+		{"trigger": "impedance\tAntenna method", "contents": "impedance(${1:args})"},
+		{"trigger": "meshconfig\tAntenna method", "contents": "meshconfig(${1:args})"},
+		{"trigger": "pattern\tAntenna method", "contents": "pattern(${1:args})"},
+		{"trigger": "patternAzimuth\tAntenna method", "contents": "patternAzimuth(${1:args})"},
+		{"trigger": "patternElevation\tAntenna method", "contents": "patternElevation(${1:args})"},
+		{"trigger": "returnLoss\tAntenna method", "contents": "returnLoss(${1:args})"},
+		{"trigger": "show\tAntenna method", "contents": "show(${1:args})"},
+		{"trigger": "sparameters\tAntenna method", "contents": "sparameters(${1:args})"},
+		{"trigger": "vswr\tAntenna method", "contents": "vswr(${1:args})"},
+
+	]
+}

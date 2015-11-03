@@ -1,0 +1,31 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "closepreview\tImaq method", "contents": "closepreview(${1:args})"} ,
+		{"trigger": "commands\tImaq method", "contents": "commands(${1:args})"} ,
+		{"trigger": "executeCommand\tImaq method", "contents": "executeCommand(${1:args})"} ,
+		{"trigger": "getselectedsource\tImaq method", "contents": "getselectedsource(${1:args})"} ,
+		{"trigger": "getsnapshot\tImaq method", "contents": "getsnapshot(${1:args})"} ,
+		{"trigger": "gigecam\tImaq method", "contents": "gigecam(${1:args})"} ,
+		{"trigger": "gigecamlist\tImaq method", "contents": "gigecamlist(${1:args})"} ,
+		{"trigger": "imaq.VideoDevice\tImaq method", "contents": "imaq.VideoDevice(${1:args})"} ,
+		{"trigger": "imaqfind\tImaq method", "contents": "imaqfind(${1:args})"} ,
+		{"trigger": "imaqhelp\tImaq method", "contents": "imaqhelp(${1:args})"} ,
+		{"trigger": "imaqhwinfo\tImaq method", "contents": "imaqhwinfo(${1:args})"} ,
+		{"trigger": "imaqmontage\tImaq method", "contents": "imaqmontage(${1:args})"} ,
+		{"trigger": "imaqreset\tImaq method", "contents": "imaqreset(${1:args})"} ,
+		{"trigger": "imaqtool\tImaq method", "contents": "imaqtool(${1:args})"} ,
+		{"trigger": "isrunning\tImaq method", "contents": "isrunning(${1:args})"} ,
+		{"trigger": "matroxcam\tImaq method", "contents": "matroxcam(${1:args})"} ,
+		{"trigger": "matroxlist\tImaq method", "contents": "matroxlist(${1:args})"} ,
+		{"trigger": "obj2mfile\tImaq method", "contents": "obj2mfile(${1:args})"} ,
+		{"trigger": "propinfo\tImaq method", "contents": "propinfo(${1:args})"} ,
+		{"trigger": "snapshot\tImaq method", "contents": "snapshot(${1:args})"} ,
+		{"trigger": "stoppreview\tImaq method", "contents": "stoppreview(${1:args})"} ,
+		{"trigger": "triggerconfig\tImaq method", "contents": "triggerconfig(${1:args})"} ,
+		{"trigger": "triggerinfo\tImaq method", "contents": "triggerinfo(${1:args})"} ,
+		{"trigger": "videoinput\tImaq method", "contents": "videoinput(${1:args})"} ,
+
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"scope": "source.matlab, source.m",
+	"completions":
+	[
+		{"trigger": "AbstractKineticLaw\tSimBio class", "contents": "AbstractKineticLaw"},
+		{"trigger": "Compartment\tSimBio class", "contents": "Compartment"},
+		{"trigger": "Configset\tSimBio class", "contents": "Configset"},
+		{"trigger": "CovariateModel\tSimBio class", "contents": "CovariateModel"},
+		{"trigger": "EstimatedInfo\tSimBio class", "contents": "EstimatedInfo"},
+		{"trigger": "Event\tSimBio class", "contents": "Event"},
+		{"trigger": "GroupedData\tSimBio class", "contents": "GroupedData"},
+		{"trigger": "KineticLaw\tSimBio class", "contents": "KineticLaw"},
+		{"trigger": "LeastSquaresResults\tSimBio class", "contents": "LeastSquaresResults"},
+		{"trigger": "Model\tSimBio class", "contents": "Model"},
+		{"trigger": "NLINResults\tSimBio class", "contents": "NLINResults"},
+		{"trigger": "NLMEResults\tSimBio class", "contents": "NLMEResults"},
+		{"trigger": "OptimResults\tSimBio class", "contents": "OptimResults"},
+		{"trigger": "PKCompartment\tSimBio class", "contents": "PKCompartment"},
+		{"trigger": "PKModelDesign\tSimBio class", "contents": "PKModelDesign"},
+		{"trigger": "PKModelMap\tSimBio class", "contents": "PKModelMap"},
+		{"trigger": "Parameter\tSimBio class", "contents": "Parameter"},
+		{"trigger": "Reaction\tSimBio class", "contents": "Reaction"},
+		{"trigger": "RepeatDose\tSimBio class", "contents": "RepeatDose"},
+		{"trigger": "Root\tSimBio class", "contents": "Root"},
+		{"trigger": "Rule\tSimBio class", "contents": "Rule"},
+		{"trigger": "ScheduleDose\tSimBio class", "contents": "ScheduleDose"},
+		{"trigger": "SimData\tSimBio class", "contents": "SimData"},
+		{"trigger": "SimFunction\tSimBio class", "contents": "SimFunction"},
+		{"trigger": "SimFunctionSensitivity\tSimBio class", "contents": "SimFunctionSensitivity"},
+		{"trigger": "Species\tSimBio class", "contents": "Species"},
+		{"trigger": "Unit\tSimBio class", "contents": "Unit"},
+		{"trigger": "UnitPrefix\tSimBio class", "contents": "UnitPrefix"},
+
+	]
+}
