@@ -4,11 +4,11 @@
 
 ## About
 
-All Competion Suggestions for Matlab on Sublime text.
+All Completion Suggestions for Matlab on Sublime text.
 
 ## How to Use
 
-Start typing on a Matlab file and press tab for completions.
+Start typing on a Matlab file and press tab to select completion suggestion.
 
 ### Screenshot
 #### Import Completions
