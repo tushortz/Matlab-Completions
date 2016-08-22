@@ -861,7 +861,7 @@
 		{"trigger": "empty\tMatlab method", "contents": "empty(${1:args})"} ,
 		{"trigger": "enableNETfromNetworkDrive\tMatlab method", "contents": "enableNETfromNetworkDrive(${1:args})"} ,
 		{"trigger": "enableservice\tMatlab method", "contents": "enableservice(${1:args})"} ,
-		{"trigger": "end\tMatlab method", "contents": "end(${1:args})"} ,
+		{"trigger": "end\tMatlab method", "contents": "end"} ,
 		{"trigger": "eomday\tMatlab method", "contents": "eomday(${1:args})"} ,
 		{"trigger": "eps\tMatlab method", "contents": "eps(${1:args})"} ,
 		{"trigger": "eq\tMatlab method", "contents": "eq(${1:args})"} ,
